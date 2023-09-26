@@ -19,7 +19,7 @@
 <img align="center" alt="Nath-Css3" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <img align="center" alt="Nath-Html5" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img align="center" alt="Nath-Git" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="right" alt="Nath-gif" height="180" width="180" src="https://media.discordapp.net/attachments/909950749042147421/1154181308981989528/nath.gif"> 
+
 </div>
 
 ##
@@ -29,9 +29,8 @@
 <a href= "https://wa.me/5511967541729" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:nathaliasallim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathaliasallim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<img align="right" alt="Nath-gif" height="180" width="180" src="https://media.discordapp.net/attachments/909950749042147421/1154181308981989528/nath.gif">
+  
    ![Snake animation](https://github.com/NathaliaSallim/NathaliaSallim/blob/output/github-contribution-grid-snake.svg)
-
-
 </div>
           
