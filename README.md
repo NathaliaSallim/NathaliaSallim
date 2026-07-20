@@ -1,3 +1,16 @@
+ Olá! Eu sou a Nathalia 
+  
+- 🔭 No momento não estou trabalhando.
+- 🌱 Aprendendo Java.
+- 🤔 Sou formada em Anaálise e Desenvolvimento de Sistemas.
+- ⚡ Apaixonada por astronomia, gatos e rock'n roll.
+
+
+##
+<img align="center" heigth="500" width="700" src=https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif>
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nath-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
