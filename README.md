@@ -5,7 +5,7 @@ Formada em Análise e Desenvolvimento de Sistemas, em transição de carreira pa
 - 🌱 Estudando JavaScript e Node.js
 - 🔭 Em busca da primeira oportunidade como desenvolvedora (estágio ou júnior)
 - ☕ Já pratiquei lógica de programação em Java, com exercícios do Beecrowd
-- ⚡ Fora do código: astronomia, gatos e rock'n roll.
+- ⚡ Fora do código: astronomia, gatos e rock'n roll
 
 
 ##
