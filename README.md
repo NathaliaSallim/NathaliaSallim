@@ -1,7 +1,7 @@
  Olá! Eu sou a Nathalia 
   
 - 🔭 No momento não estou trabalhando.
-- 🌱 Aprendendo Java.
+- 🌱 Aprendendo Javascript.
 - 🤔 Sou formada em Anaálise e Desenvolvimento de Sistemas.
 - ⚡ Apaixonada por astronomia, gatos e rock'n roll.
 
