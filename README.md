@@ -1,9 +1,11 @@
- Olá! Eu sou a Nathalia 
-  
-- 🔭 No momento não estou trabalhando.
-- 🌱 Aprendendo Javascript.
-- 🤔 Sou formada em Anaálise e Desenvolvimento de Sistemas.
-- ⚡ Apaixonada por astronomia, gatos e rock'n roll.
+ ## Olá! Eu sou a Nathalia 👋
+
+Formada em Análise e Desenvolvimento de Sistemas, em transição de carreira para a programação. Gosto de lógica, de resolver problemas e de entender como as coisas funcionam por trás da tela, por isso meu foco é back-end.
+
+- 🌱 Estudando JavaScript e Node.js
+- 🔭 Em busca da primeira oportunidade como desenvolvedora (estágio ou júnior)
+- ☕ Já pratiquei lógica de programação em Java, com exercícios do Beecrowd
+- ⚡ Fora do código: astronomia, gatos e rock'n roll.
 
 
 ##
@@ -13,10 +15,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nath-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Nath-java" height="30" width="40" 
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Nath-git" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
 </div>
   
   ##
